@@ -47,6 +47,14 @@ body {
     height: 400px;
 }
 
+#content-rede {
+    display: flex;
+}
+.content-icone-rede {
+    height: 30px;
+    margin-left: 10px;
+}
+
 #form-contato {
     display: flex;
     justify-content: center;
