@@ -37,14 +37,19 @@ body {
     padding: 50px;
 }
 .noticia {
-    margin-bottom: 15px;
+    margin-bottom: 45px;
 }
 .noticia-corpo {
     display: flex;
     justify-content: center;
 }
 .img-noticia {
-    width: 100%;
+    height: 400px;
+}
+
+#form-contato {
+    display: flex;
+    justify-content: center;
 }
 #rodape {
     display: flex;
