@@ -1,0 +1,56 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+}
+
+#container {
+    background-color: lightgrey;
+    color: purple;
+}
+
+#cabecalho {
+    padding-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+#titulo {
+
+    justify-content: center;
+}
+#navbar {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.nav-item {
+    background-color: lightgrey;
+}
+.nav-link {
+    color: purple;
+    text-decoration: unset;
+}
+
+#conteudo {
+    padding: 50px;
+}
+.noticia {
+    margin-bottom: 15px;
+}
+.noticia-corpo {
+    display: flex;
+    justify-content: center;
+}
+.img-noticia {
+    width: 100%;
+}
+#rodape {
+    display: flex;
+    width: 100%;
+    margin-top: 30px;
+    background-color: darkslategrey;
+    color: white;
+    font-weight: bold;
+}
